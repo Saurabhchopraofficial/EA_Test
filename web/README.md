@@ -24,10 +24,14 @@ npm start
 * Once, the project is built then open the url http://localhost:4200/festivals in browser
 
 Once the application is running on localhost, run the below commands to run Cypress tests:
+```
 npm run cy:open
+```
 
 To run on CLI:
+```
 npm run cy:run
+```
 
 
 **Note** - These instructions will assist you with setup but you are free to explore tools, processes and techniques for setting up the project.
