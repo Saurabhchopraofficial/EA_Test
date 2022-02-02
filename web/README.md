@@ -20,7 +20,9 @@ npm install - g @angular/cli
 ng serve
 ```
 
+```
 npm start
+```
 * Once, the project is built then open the url http://localhost:4200/festivals in browser
 
 Once the application is running on localhost, run the below commands to run Cypress tests:
